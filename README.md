@@ -13,7 +13,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/>  
 </div>
 <div align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
+  <img alt="ShaderLab" src="https://img.shields.io/badge/shaderlab%23-%23323330.svg?&style=for-the-badge&logo=shaderlab&logoColor=white"/> 
 </div>
 <div align="center">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23323330.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
